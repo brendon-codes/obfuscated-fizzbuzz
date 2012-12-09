@@ -1,5 +1,4 @@
-My Obfuscated Code Snippets
-===========================
+Obfuscated Python Fizzbuzz Implementation
+=========================================
 
-Just some fun little obfuscated code snippets
-
+[FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
